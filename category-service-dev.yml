@@ -18,6 +18,8 @@ spring:
         show_sql: true
         format_sql: true
 
+message-toast: Đây là message ban đầu
+
 eureka:
   client:
     register-with-eureka: true
