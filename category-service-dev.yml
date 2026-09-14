@@ -18,7 +18,7 @@ spring:
         show_sql: true
         format_sql: true
 
-message-toast: Message đã thay đổi
+message-toast: Message đã thay đổi lần 2
 
 eureka:
   client:
